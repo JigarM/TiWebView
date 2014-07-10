@@ -1,0 +1,324 @@
+TTiWebview
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.pch ComMobmaximeTiWebview_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.o /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.o /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/libComMobmaximeTiWebview.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523655D100000000000003B5
+t1379292625
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052365612000000000000019E
+t1379292690
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005236563C000000000088B570
+t1379292732
+s8959344
+
+N/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.h
+c0000000053BE693900000000000000FB
+t1404987705
+s251
+
+N/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m
+c0000000053BE6AB20000000000000CD0
+t1404988082
+s3280
+
+N/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.h
+c0000000053BE693900000000000000DA
+t1404987705
+s218
+
+N/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m
+c0000000053BE69390000000000000266
+t1404987705
+s614
+
+N/Users/MM/Desktop/Github/TiWebView/ComMobmaximeTiWebview_Prefix.pch
+c0000000053BE6939000000000000003E
+t1404987705
+s62
+
+N/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/libComMobmaximeTiWebview.a
+t1404988096
+s28208
+
+N/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebview.LinkFileList
+c0000000053BE6A39000000000000012C
+t1404987961
+s300
+
+N/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.o
+t1404988096
+s22548
+
+N/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.o
+t1404987962
+s5132
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/Bridge.h
+c0000000052B6AC5D0000000000000268
+t1387703389
+s616
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/KrollCallback.h
+c0000000052B6AC610000000000000AA8
+t1387703393
+s2728
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/KrollContext.h
+c0000000052B6AC5F00000000000013B2
+t1387703391
+s5042
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/KrollObject.h
+c0000000052B6AC620000000000000D7F
+t1387703394
+s3455
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBase.h
+c0000000052B6AC5C0000000000004C46
+t1387703388
+s19526
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBindingRunLoop.h
+c0000000052B6AC64000000000000058B
+t1387703396
+s1419
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBlob.h
+c0000000052B6AC5F0000000000000B0A
+t1387703391
+s2826
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBuffer.h
+c0000000052B6AC6100000000000005EF
+t1387703393
+s1519
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiColor.h
+c0000000052B6AC5C0000000000000496
+t1387703388
+s1174
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/Ti.h
+c0000000052B6AC620000000000000721
+t1387703394
+s1825
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiBase.h
+c0000000052B6AC6300000000000019E1
+t1387703395
+s6625
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiContextRef.h
+c0000000052B6AC5F00000000000014DD
+t1387703391
+s5341
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+c0000000052B6AC5C0000000000000990
+t1387703388
+s2448
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiCore.h
+c0000000052B6AC5C00000000000006A0
+t1387703388
+s1696
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiObjectRef.h
+c0000000052B6AC630000000000009462
+t1387703395
+s37986
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiStringRef.h
+c0000000052B6AC6300000000000016E7
+t1387703395
+s5863
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiStringRefCF.h
+c0000000052B6AC5F0000000000000A40
+t1387703391
+s2624
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiValueRef.h
+c0000000052B6AC5C000000000000323B
+t1387703388
+s12859
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/WebKitAvailability.h
+c0000000052B6AC6200000000000080D1
+t1387703394
+s32977
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiDimension.h
+c0000000052B6AC5D0000000000000FF5
+t1387703389
+s4085
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiEvaluator.h
+c0000000052B6AC5F00000000000004D5
+t1387703391
+s1237
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiFile.h
+c0000000052B6AC630000000000000680
+t1387703395
+s1664
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiHost.h
+c0000000052B6AC630000000000000532
+t1387703395
+s1330
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiModule.h
+c0000000052B6AC610000000000000736
+t1387703393
+s1846
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiProxy.h
+c0000000052B6AC610000000000002B9A
+t1387703393
+s11162
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiPublicAPI.h
+c0000000052B6AC620000000000000A67
+t1387703394
+s2663
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiStylesheet.h
+c0000000052B6AC5C00000000000002CB
+t1387703388
+s715
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiThreading.h
+c0000000052B6AC5F00000000000008EF
+t1387703391
+s2287
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiUtils.h
+c0000000052B6AC620000000000005565
+t1387703394
+s21861
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/WebFont.h
+c0000000052B6AC5F0000000000000A25
+t1387703391
+s2597
+
+N/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/defines.h
+c0000000052B6AC5C0000000000000C4C
+t1387703388
+s3148
+
+N/var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.pch
+t1404987962
+s3195048
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies21764e81a26eb941^d6565881a26eb941^---0#1#1#--18"Check dependencies36"08AC4864-99F5-42C4-BE31-1CA868EADE33-
+
+CCompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.o /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426680896.338126
+e426680896.601319
+r1
+xCompileC
+xbuild/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.o
+x/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m
+d/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiModule.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiProxy.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBase.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/defines.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiThreading.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiPublicAPI.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiEvaluator.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/KrollContext.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiCore.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/Ti.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiBase.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/KrollCallback.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/KrollObject.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBindingRunLoop.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiUtils.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiDimension.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiColor.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/WebFont.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiFile.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBuffer.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiBlob.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiHost.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/Bridge.h
+d/Users/MM/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m226"CompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.o Classes/ComMobmaximeTiWebviewModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0fb85640a26eb941^9aee9940a26eb941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m0000000000000000^3676"CompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.o Classes/ComMobmaximeTiWebviewModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MM/Desktop/Github/TiWebView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-generated-files.hmap -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-own-target-headers.hmap -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-all-target-headers.hmap -iquote /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-project-headers.hmap -I/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/include -I/Users/MM/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include -I/Users/MM/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/DerivedSources/i386 -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/DerivedSources -F/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch -MMD -MT dependencies -MF /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.d --serialize-diagnostics /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.dia -c /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModule.m -o /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModule.o36"C89886D6-1461-4D4D-A039-D8F5AA3E89F0-
+bC2940545-9FCF-4B03-B9BB-83F8E83A8ADC
+
+CCompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.o /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426680762.234582
+e426680762.272013
+r1
+xCompileC
+xbuild/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.o
+x/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m
+d/Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m238"CompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.o Classes/ComMobmaximeTiWebviewModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler302b3cbaa16eb941^1aa345baa16eb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m0000000000000000^3712"CompileC build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.o Classes/ComMobmaximeTiWebviewModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MM/Desktop/Github/TiWebView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-generated-files.hmap -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-own-target-headers.hmap -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-all-target-headers.hmap -iquote /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-project-headers.hmap -I/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/include -I/Users/MM/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include -I/Users/MM/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/DerivedSources/i386 -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/DerivedSources -F/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch -MMD -MT dependencies -MF /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.d --serialize-diagnostics /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.dia -c /Users/MM/Desktop/Github/TiWebView/Classes/ComMobmaximeTiWebviewModuleAssets.m -o /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebviewModuleAssets.o36"B34C608A-D3AB-4E8F-8FCB-9D28BCDF59DC-
+b7878CD31-795F-4630-B433-82411383F60F
+
+CLibtool /Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/libComMobmaximeTiWebview.a normal i386
+s426680896.602350
+e426680896.609861
+r1
+xLibtool
+x/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/libComMobmaximeTiWebview.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Libtool build/Release-iphonesimulator/libComMobmaximeTiWebview.a normal i38676"Libtool build/Release-iphonesimulator/libComMobmaximeTiWebview.a normal i386484e9a40a26eb941^4f249c40a26eb941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--974"Libtool build/Release-iphonesimulator/libComMobmaximeTiWebview.a normal i386    cd /Users/MM/Desktop/Github/TiWebView    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator -filelist /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/Objects-normal/i386/ComMobmaximeTiWebview.LinkFileList -ObjC -framework Foundation -o /Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/libComMobmaximeTiWebview.a36"1389A7AE-AC29-40F2-9628-6FB2B9DB69A6-
+bC2940545-9FCF-4B03-B9BB-83F8E83A8ADC
+
+CProcessPCH /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.pch ComMobmaximeTiWebview_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426680761.823406
+e426680762.233048
+r1
+xProcessPCH
+x/var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.pch
+xComMobmaximeTiWebview_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/MM/Desktop/Github/TiWebView/ComMobmaximeTiWebview_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ComMobmaximeTiWebview_Prefix.pch322"ProcessPCH /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.pch ComMobmaximeTiWebview_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfef1d2b9a16eb941^09a93bbaa16eb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/MM/Desktop/Github/TiWebView/ComMobmaximeTiWebview_Prefix.pch0000000000000000^3746"ProcessPCH /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.pch ComMobmaximeTiWebview_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/MM/Desktop/Github/TiWebView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-generated-files.hmap -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-own-target-headers.hmap -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-all-target-headers.hmap -iquote /Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/ComMobmaximeTiWebview-project-headers.hmap -I/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator/include -I/Users/MM/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include -I/Users/MM/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone/include/TiCore -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/DerivedSources/i386 -I/Users/MM/Desktop/Github/TiWebView/build/TiWebview.build/Release-iphonesimulator/TiWebview.build/DerivedSources -F/Users/MM/Desktop/Github/TiWebView/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.d -c /Users/MM/Desktop/Github/TiWebView/ComMobmaximeTiWebview_Prefix.pch -o /var/folders/69/206zdvd9015ftxkdghwtf4km0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/ComMobmaximeTiWebview_Prefix-ebjdjhojtrnrdqcvnstejclkxjec/ComMobmaximeTiWebview_Prefix.pch.pch36"4030A9D0-1DDC-42FF-B6A2-4FFFD48D8B1C-
+b7878CD31-795F-4630-B433-82411383F60F
+

@@ -24,7 +24,7 @@ button.addEventListener('click', function(e){
 var webview = Ti.UI.createWebView({
     top : "50dp",
     bottom : "0dp",
-    url : 'http://github.com/jigarmaheshwari'
+    url : 'http://github.com/JigarM'
 });
 
 webview.addEventListener('load', function(e) {

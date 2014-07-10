@@ -5,6 +5,7 @@
 		configuration in <iphone>, <android>, and <mobileweb> sections
 	-->
 	<iphone>
+        <min-sdk-ver>4.3</min-sdk-ver>
 	</iphone>
 	<android xmlns:android="http://schemas.android.com/apk/res/android">
 	</android>
