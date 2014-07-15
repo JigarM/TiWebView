@@ -33,7 +33,7 @@ List out the Cookie OR Get All Cookie for Webview :
 
 ```javascript
 
-var Cookies = TiWebview.listCookies('http://github.com/jigarmaheshwari');
+var Cookies = TiWebview.listCookies('http://github.com/JigarM');
 for (var key in Cookies) {
     Ti.API.info('Name ==> ' + key + ' and Value ==>: ' + Cookies[key]);
 }
@@ -44,7 +44,7 @@ The whole thing for getting All cookies of UIWebview:
 
 ```javascript
 var webview = Ti.UI.createWebView({
-    url : 'http://github.com/jigarmaheshwari'
+    url : 'http://github.com/JigarM'
 });
 
 webview.addEventListener('load', function(e) {
