@@ -10,29 +10,29 @@
 	<string>TiWebview</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>AF1B98D9-6871-4127-BCCA-3CC6708512F7</key>
+		<key>968EB7CDD62E8162C2CA05850675BA490E5BBF98</key>
 		<string>https://github.com/JigarM/TiWebView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TiWebview.xcodeproj/project.xcworkspace</string>
+	<string>TiWebview.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>AF1B98D9-6871-4127-BCCA-3CC6708512F7</key>
+		<key>968EB7CDD62E8162C2CA05850675BA490E5BBF98</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/JigarM/TiWebView.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AF1B98D9-6871-4127-BCCA-3CC6708512F7</string>
+	<string>968EB7CDD62E8162C2CA05850675BA490E5BBF98</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>AF1B98D9-6871-4127-BCCA-3CC6708512F7</string>
+			<string>968EB7CDD62E8162C2CA05850675BA490E5BBF98</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TiWebView</string>
 		</dict>
